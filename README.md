@@ -10,3 +10,5 @@ Code8 and Befikra are collaborating in organising this ideathon.
 Among the six categories above,I and my team decided to work on 'Sports' theme.
 
 Our idea is to create an application framework that will provide facility to play betting game, watch and discuss different sports on same platform simultaneously.
+
+<h3><i>Title of our project application : DATSPOR</i></h3>
